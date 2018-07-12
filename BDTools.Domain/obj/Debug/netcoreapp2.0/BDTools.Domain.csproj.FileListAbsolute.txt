@@ -1,0 +1,9 @@
+D:\Arquivos\Meus Projetos\BDTools\BDTools.Domain\bin\Debug\netcoreapp2.0\BDTools.Domain.deps.json
+D:\Arquivos\Meus Projetos\BDTools\BDTools.Domain\bin\Debug\netcoreapp2.0\BDTools.Domain.dll
+D:\Arquivos\Meus Projetos\BDTools\BDTools.Domain\bin\Debug\netcoreapp2.0\BDTools.Domain.pdb
+D:\Arquivos\Meus Projetos\BDTools\BDTools.Domain\obj\Debug\netcoreapp2.0\BDTools.Domain.csprojResolveAssemblyReference.cache
+D:\Arquivos\Meus Projetos\BDTools\BDTools.Domain\obj\Debug\netcoreapp2.0\BDTools.Domain.csproj.CoreCompileInputs.cache
+D:\Arquivos\Meus Projetos\BDTools\BDTools.Domain\obj\Debug\netcoreapp2.0\BDTools.Domain.AssemblyInfoInputs.cache
+D:\Arquivos\Meus Projetos\BDTools\BDTools.Domain\obj\Debug\netcoreapp2.0\BDTools.Domain.AssemblyInfo.cs
+D:\Arquivos\Meus Projetos\BDTools\BDTools.Domain\obj\Debug\netcoreapp2.0\BDTools.Domain.dll
+D:\Arquivos\Meus Projetos\BDTools\BDTools.Domain\obj\Debug\netcoreapp2.0\BDTools.Domain.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDTools.Api", "BDTools.Api\BDTools.Api.csproj", "{E4FE7371-B769-4AD8-B19E-9D928E4D3536}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4FE7371-B769-4AD8-B19E-9D928E4D3536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4FE7371-B769-4AD8-B19E-9D928E4D3536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4FE7371-B769-4AD8-B19E-9D928E4D3536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4FE7371-B769-4AD8-B19E-9D928E4D3536}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBAD1661-2E8D-43E5-A3E5-B38C55EE8CF8}
+	EndGlobalSection
+EndGlobal

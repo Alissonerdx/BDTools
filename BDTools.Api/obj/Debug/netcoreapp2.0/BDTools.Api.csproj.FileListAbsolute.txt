@@ -1,0 +1,10 @@
+D:\Arquivos\Meus Projetos\BDTools\BDTools.Api\bin\Debug\netcoreapp2.0\BDTools.Api.deps.json
+D:\Arquivos\Meus Projetos\BDTools\BDTools.Api\bin\Debug\netcoreapp2.0\BDTools.Api.runtimeconfig.json
+D:\Arquivos\Meus Projetos\BDTools\BDTools.Api\bin\Debug\netcoreapp2.0\BDTools.Api.runtimeconfig.dev.json
+D:\Arquivos\Meus Projetos\BDTools\BDTools.Api\bin\Debug\netcoreapp2.0\BDTools.Api.dll
+D:\Arquivos\Meus Projetos\BDTools\BDTools.Api\bin\Debug\netcoreapp2.0\BDTools.Api.pdb
+D:\Arquivos\Meus Projetos\BDTools\BDTools.Api\obj\Debug\netcoreapp2.0\BDTools.Api.csproj.CoreCompileInputs.cache
+D:\Arquivos\Meus Projetos\BDTools\BDTools.Api\obj\Debug\netcoreapp2.0\BDTools.Api.AssemblyInfoInputs.cache
+D:\Arquivos\Meus Projetos\BDTools\BDTools.Api\obj\Debug\netcoreapp2.0\BDTools.Api.AssemblyInfo.cs
+D:\Arquivos\Meus Projetos\BDTools\BDTools.Api\obj\Debug\netcoreapp2.0\BDTools.Api.dll
+D:\Arquivos\Meus Projetos\BDTools\BDTools.Api\obj\Debug\netcoreapp2.0\BDTools.Api.pdb
